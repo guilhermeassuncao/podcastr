@@ -56,7 +56,7 @@ export function Player() {
         if (hasNext) {
             playNext();
         } else {
-            clearPlayerState()
+            clearPlayerState();
         }
     }
 
