@@ -23,6 +23,7 @@ Professor - Diego Fernandes
 - HTML5
 - CSS3
 - JavaScript
+- TypeScript
 - ReactJS
 - NextJS
 
